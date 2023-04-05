@@ -22,6 +22,8 @@
 
 [3]OD-GCN: Object Detection Boosted by Knowledge GCN【[paper](https://ieeexplore.ieee.org/document/9105952)】
 
+[4]Improving Object Detection with Relation Mining Network【[paper](https://ieeexplore.ieee.org/document/9338339)】
+
 #### 2019
 
 [1]Reasoning-RCNN: Unifying Adaptive Global Reasoning into Large-scale Object Detection【[paper](https://ieeexplore.ieee.org/document/8953842)】
