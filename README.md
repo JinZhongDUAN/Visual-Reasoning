@@ -14,6 +14,8 @@
 
 [3]HR-RCNN: Hierarchical Relational Reasoning for Object Detection【[paper](https://arxiv.org/abs/2110.13892)】
 
+[4]Hybrid Knowledge R-CNN for Transmission Line Multifitting Detection【[paper](https://ieeexplore.ieee.org/document/9481328)】
+
 #### 2020
 
 [1]Knowledge Graph Transfer Network for Few-Shot Recognition【[paper](https://arxiv.org/abs/1911.09579v2)】
@@ -35,6 +37,8 @@
 [1]Hybrid Knowledge Routed Modules for Large-scale Object Detection【[paper](https://arxiv.org/abs/1810.12681)】
 
 [2]Relation Networks for Object Detection【[paper](https://ieeexplore.ieee.org/document/8578476)】
+
+[3]Iterative Visual Reasoning Beyond Convolutions【[paper](https://ieeexplore.ieee.org/document/8578854)】
 
 #### 2017
 
