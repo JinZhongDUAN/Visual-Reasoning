@@ -6,6 +6,8 @@
 
 #### 2022
 
+[1]Multi-Fitting Detection on Transmission Line Based on Cascade Reasoning Graph Network【[paper](https://ieeexplore.ieee.org/abstract/document/9739825)】
+
 #### 2021
 
 [1]A Semantic Relation Graph Reasoning Network for Object Detection【[paper](https://ieeexplore.ieee.org/document/9455627)】
