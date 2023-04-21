@@ -1,12 +1,14 @@
 # Visual-Reasoning
 
-# papers
+# 英文+中文
 
 #### 2023
 
 #### 2022
 
 [1]Multi-Fitting Detection on Transmission Line Based on Cascade Reasoning Graph Network【[paper](https://ieeexplore.ieee.org/abstract/document/9739825)】
+
+[2]基于图知识推理的输电线路缺销螺栓识别方法【[paper](http://html.rhhz.net/tis/html/202205004.htm)】
 
 #### 2021
 
@@ -18,6 +20,10 @@
 
 [4]Hybrid Knowledge R-CNN for Transmission Line Multifitting Detection【[paper](https://ieeexplore.ieee.org/document/9481328)】
 
+[5]融合外部知识的输电线路多金具解耦检测方法【[paper](http://html.rhhz.net/tis/html/202107026.htm)】
+
+[6]基于门控图神经网络的栓母对知识图谱构建与应用【[paper](https://www.cnki.com.cn/Article/CJFDTotal-DWJS202101011.htm)】
+
 #### 2020
 
 [1]Knowledge Graph Transfer Network for Few-Shot Recognition【[paper](https://arxiv.org/abs/1911.09579v2)】
@@ -27,6 +33,8 @@
 [3]OD-GCN: Object Detection Boosted by Knowledge GCN【[paper](https://ieeexplore.ieee.org/document/9105952)】
 
 [4]Improving Object Detection with Relation Mining Network【[paper](https://ieeexplore.ieee.org/document/9338339)】
+
+[5]融合共现推理的Faster R-CNN输电线路金具检测【[paper](http://tis.hrbeu.edu.cn/oa/darticle.aspx?type=view&id=202012023)】
 
 #### 2019
 
