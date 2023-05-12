@@ -50,6 +50,8 @@
 
 [3]Iterative Visual Reasoning Beyond Convolutions【[paper](https://ieeexplore.ieee.org/document/8578854)】
 
+[4]Structure Inference Net: Object Detection Using Scene-Level Context and Instance-Level Relationships【[paper](https://arxiv.org/abs/1807.00119)】
+
 #### 2017
 
 [1]The More You Know: Using Knowledge Graphs for Image Classification【[paper](https://arxiv.org/abs/1810.12681)】
