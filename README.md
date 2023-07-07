@@ -37,6 +37,8 @@
 
 [5]融合共现推理的Faster R-CNN输电线路金具检测【[paper](http://tis.hrbeu.edu.cn/oa/darticle.aspx?type=view&id=202012023)】
 
+[6]Universal-RCNN: Universal Object Detector via Transferable Graph R-CNN【[paper](https://arxiv.org/abs/2002.07417)】
+
 #### 2019
 
 [1]Reasoning-RCNN: Unifying Adaptive Global Reasoning into Large-scale Object Detection【[paper](https://ieeexplore.ieee.org/document/8953842)】
