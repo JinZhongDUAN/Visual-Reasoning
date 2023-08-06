@@ -11,6 +11,9 @@
 [2]基于图知识推理的输电线路缺销螺栓识别方法【[paper](http://html.rhhz.net/tis/html/202205004.htm)】
 
 [3]Object Detection Based on Embedding Internal and External Knowledge【[paper](https://link.springer.com/chapter/10.1007/978-3-031-18916-6_29)】
+
+[4]GCN-based Semantic Relation Network for Few-Shot Object Detection【[paper](https://ieeexplore.ieee.org/document/9952399)】
+
 #### 2021
 
 [1]A Semantic Relation Graph Reasoning Network for Object Detection【[paper](https://ieeexplore.ieee.org/document/9455627)】
