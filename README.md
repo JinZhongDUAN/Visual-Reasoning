@@ -24,9 +24,13 @@
 
 [4]Hybrid Knowledge R-CNN for Transmission Line Multifitting Detection【[paper](https://ieeexplore.ieee.org/document/9481328)】
 
-[5]融合外部知识的输电线路多金具解耦检测方法【[paper](http://html.rhhz.net/tis/html/202107026.htm)】
+[5]HTD: Heterogeneous Task Decoupling for Two-Stage Object Detection【[paper](https://ieeexplore.ieee.org/abstract/document/9615001)】
 
-[6]基于门控图神经网络的栓母对知识图谱构建与应用【[paper](https://www.cnki.com.cn/Article/CJFDTotal-DWJS202101011.htm)】
+[6]Object detection by crossing relational reasoning based on graph neural network【[paper](https://link.springer.com/article/10.1007/s00138-021-01257-8)】
+
+[7]融合外部知识的输电线路多金具解耦检测方法【[paper](http://html.rhhz.net/tis/html/202107026.htm)】
+
+[8]基于门控图神经网络的栓母对知识图谱构建与应用【[paper](https://www.cnki.com.cn/Article/CJFDTotal-DWJS202101011.htm)】
 
 #### 2020
 
