@@ -4,6 +4,8 @@
 
 #### 2023
 
+[1]Relational Prior Knowledge Graphs for Detection and Instance Segmentation【[paper](https://arxiv.org/abs/2310.07573)】
+
 #### 2022
 
 [1]Multi-Fitting Detection on Transmission Line Based on Cascade Reasoning Graph Network【[paper](https://ieeexplore.ieee.org/abstract/document/9739825)】
