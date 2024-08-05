@@ -6,6 +6,8 @@
 
 [1]Relational Prior Knowledge Graphs for Detection and Instance Segmentation【[paper](https://arxiv.org/abs/2310.07573)】
 
+[2]Relational Prior Knowledge Graphs for Detection and Instance Segmentation【[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323002583?via%3Dihub)】
+
 #### 2022
 
 [1]Multi-Fitting Detection on Transmission Line Based on Cascade Reasoning Graph Network【[paper](https://ieeexplore.ieee.org/abstract/document/9739825)】
