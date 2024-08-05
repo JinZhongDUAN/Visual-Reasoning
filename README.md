@@ -6,7 +6,7 @@
 
 [1]Relational Prior Knowledge Graphs for Detection and Instance Segmentation【[paper](https://arxiv.org/abs/2310.07573)】
 
-[2]Relational Prior Knowledge Graphs for Detection and Instance Segmentation【[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323002583?via%3Dihub)】
+[2]CANet: Contextual Information and Spatial Attention Based Network for Detecting Small Defects in Manufacturing Industry【[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323002583?via%3Dihub)】
 
 #### 2022
 
